@@ -10,8 +10,9 @@ We learn 10 sprints during 4 months program
   - Pao ying chub game Mini game with R.
   - Chatbot Pizza shop. The chatbot can recieve order from customer with R.
 - Data Transformation
-  - Flight data analysis with R
+  - Data Visualization Diamonds Dataset with R
 - Data Visualization
+  - tinytex::install_tinytex()
 - Statistics
 - Intro to 'Classical' Machine Learning
 - Intro to Python
