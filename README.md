@@ -21,3 +21,5 @@ We learn 10 sprints during 4 months program
   - API. Request data from API and create Data frame
   - Machine learning. Predict diabetes dataset
 - Dashboard
+
+Badges: https://badgr.com/public/assertions/7kDGyBDCQICfSjCwUgZBSg
