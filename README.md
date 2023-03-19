@@ -10,6 +10,7 @@ We learn 10 sprints during 4 months program
   - Pao ying chub game Mini game with R.
   - Chatbot Pizza shop. The chatbot can recieve order from customer with R.
 - Data Transformation
+  - NYC flights 2013 Analysis with R
 - Data Visualization
   - Data Visualization Diamonds Dataset with R
 - Statistics
