@@ -22,5 +22,8 @@ We learn 10 sprints during 4 months program
   - API. Request data from API and create Data frame
   - Machine learning. Predict diabetes dataset
 - Dashboard
+  - Looker Studio :The 2014 Inc. 5000 dataset 
+  - Link: https://lookerstudio.google.com/reporting/4195d255-257e-4183-8345-b1482627b9f0 
+
 
 Badges: https://badgr.com/public/assertions/7kDGyBDCQICfSjCwUgZBSg
