@@ -1,4 +1,4 @@
-# Bootcamp_projects
+# Bootcamp_projects_DataRockie_Batch06
 Data science bootcamp 
 
 We learn 10 sprints during 4 months program
