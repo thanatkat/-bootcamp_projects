@@ -19,7 +19,7 @@ We learn 10 sprints during 4 months program
   - Pao ying chub. Mini game with Python.
   - ATMS. Imulate ATM menu. 
 - Essential Python for Data Analyst
-  - API. Request data from API and create Data frame
+  - API. Request data from API and create Data frame: https://colab.research.google.com/drive/1-VD01ZxmUgja-K7dsMhyU9fjwHkWFanb?usp=sharing
   - Machine learning. Predict diabetes dataset
 - Dashboard
   - Looker Studio :The 2014 Inc. 5000 dataset 
